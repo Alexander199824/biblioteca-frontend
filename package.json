@@ -36,5 +36,8 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://backejercicio.onrender.com"
+  "proxy": "https://backejercicio.onrender.com",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
