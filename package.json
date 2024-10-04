@@ -37,8 +37,10 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://mi-app-en-render.com",
   "proxy": "https://backejercicio.onrender.com",
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   }
+  
 }
